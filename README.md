@@ -1,2 +1,2 @@
-# Random-Generator-Game
- Designed and implemented a number-guessing program that generates random values for users to guess, utilizing functions with  parameters and return values to create a modular and organized code structure.
+# Python Projects Collage
+ A few beginner friendly codes that I've worked on using Python.
